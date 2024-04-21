@@ -1,6 +1,6 @@
 {
   "name": "todo-list-crud-by-wajid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Todo App to store delete and update todos",
   "main": "index.js",
   "type": "module",
